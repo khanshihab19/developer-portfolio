@@ -23,8 +23,11 @@ section {
 .half-width img {
     width: 90%;
     padding: 5%;
+}
 
-
+.half-width p {
+    text-align: justify;
+    padding-bottom: 10px;
 }
 
 .link-button {
