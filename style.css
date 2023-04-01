@@ -94,6 +94,7 @@ h1 {
     margin-right: 5%;
     padding: 30px;
     border-left: 5px solid #c7860f;
+    border-radius: 10px;
 }
 
 .experience-shadow p {
@@ -112,4 +113,15 @@ h1 {
     margin-left: 5%;
     padding: 10x;
     margin-top: 50px;
+}
+
+footer {
+    background-color: #c7860f;
+    height: 40px;
+}
+
+footer p {
+
+    text-align: center;
+    color: white;
 }
